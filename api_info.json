@@ -1,0 +1,12 @@
+{
+  "api_url": "https://prc316o7ug.execute-api.us-east-1.amazonaws.com/dev",
+  "api_id": "prc316o7ug",
+  "endpoints": {
+    "weather": "r0h9h5",
+    "alerts": "gfmcd2",
+    "metrics": "wgqgqo"
+  },
+  "region": "us-east-1",
+  "account_id": "577737764713",
+  "created_at": "2025-11-20T16:25:16.857924"
+}

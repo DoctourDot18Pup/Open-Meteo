@@ -1,0 +1,55 @@
+{
+  "timestamp": "2025-11-20T16:04:59.349933",
+  "base_url": "https://6vg5w8ouqj.execute-api.us-east-1.amazonaws.com/dev",
+  "summary": {
+    "total_tests": 11,
+    "successful_tests": 0,
+    "success_rate": 0.0
+  },
+  "detailed_results": {
+    "Weather - Estados disponibles": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/weather (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fa5fb30>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    },
+    "Weather - Datos Guanajuato": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/weather?state=Guanajuato&limit=5 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fa90290>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    },
+    "Weather - Datos Sinaloa": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/weather?state=Sinaloa&limit=3 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fa90aa0>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    },
+    "Alerts - Todas las alertas": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/alerts?limit=5 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fa91370>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    },
+    "Alerts - Por estado (Sonora)": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/alerts?state=Sonora&limit=3 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fa91b80>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    },
+    "Alerts - Solo cr\u00edticas": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/alerts/critical (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fa5f950>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    },
+    "Alerts - Cultivos disponibles": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/crops (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fa91370>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    },
+    "Metrics - M\u00e9tricas generales": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/metrics?limit=5 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fa90380>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    },
+    "Metrics - Por estado (Chiapas)": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/metrics?state=Chiapas (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fa92120>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    },
+    "Metrics - Dashboard data": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/dashboard (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fa5f980>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    },
+    "Metrics - System summary": {
+      "status": "CONNECTION_ERROR",
+      "error": "HTTPSConnectionPool(host='6vg5w8ouqj.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /dev/summary (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7c9d7fb3e5a0>: Failed to resolve '6vg5w8ouqj.execute-api.us-east-1.amazonaws.com' (Name or service not known: 6vg5w8ouqj.execute-api.us-east-1.amazonaws.com using 1 resolver(s))\"))"
+    }
+  }
+}

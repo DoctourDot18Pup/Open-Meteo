@@ -1,0 +1,6 @@
+datetime,temperature_2m,relative_humidity_2m,precipitation,weather_code,state,latitude,longitude,data_type
+2025-11-19 21:00:00+00:00,26.350000381469727,32.0,0.0,0.0,Aguascalientes,21.8853,-102.2916,current
+2025-11-19 21:00:00+00:00,21.14349937438965,33.0,0.0,1.0,Baja California,32.6519,-115.4683,current
+2025-11-19 21:00:00+00:00,27.90450096130371,50.0,0.0,3.0,Baja California Sur,24.1444,-110.3128,current
+2025-11-19 21:00:00+00:00,28.75,67.0,0.0,1.0,Campeche,19.8414,-90.5328,current
+2025-11-19 21:00:00+00:00,29.600000381469727,52.0,0.0,1.0,Chiapas,16.7569,-93.1292,current
