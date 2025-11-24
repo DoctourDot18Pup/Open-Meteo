@@ -1,0 +1,352 @@
+{"PK_Alert":"ALERT#San Luis Potosi","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#San Luis Potosi","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#San Luis Potosi","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#San Luis Potosi","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#San Luis Potosi","SK_Date":"2025-12-04","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#San Luis Potosi","SK_Date":"2025-12-05","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California Sur","SK_Date":"2025-11-26","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California Sur","SK_Date":"2025-11-27","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Baja California Sur","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California Sur","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":1,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-12-03","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-12-04","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Estado de Mexico","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Ciudad de Mexico","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Ciudad de Mexico","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Ciudad de Mexico","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Ciudad de Mexico","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Ciudad de Mexico","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Ciudad de Mexico","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Ciudad de Mexico","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Ciudad de Mexico","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-11-28","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-12-01","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-12-02","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-12-03","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-12-04","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Quintana Roo","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Aguascalientes","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Aguascalientes","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Aguascalientes","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Aguascalientes","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Aguascalientes","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Aguascalientes","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Aguascalientes","SK_Date":"2025-12-03","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California","SK_Date":"2025-11-26","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Baja California","SK_Date":"2025-11-28","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Baja California","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California","SK_Date":"2025-12-03","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California","SK_Date":"2025-12-04","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Baja California","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-11-30","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-12-03","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-12-04","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-12-05","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nayarit","SK_Date":"2025-12-07","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-11-28","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-12-04","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-12-05","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Yucatan","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Michoacan","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-11-23","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-11-26","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-11-27","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-11-28","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-12-04","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-12-05","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Campeche","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-12-03","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-12-04","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-12-06","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Colima","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-11-23","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-11-24","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-11-25","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-11-26","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-11-27","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-12-01","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-12-02","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-12-03","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-12-04","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-12-05","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Jalisco","SK_Date":"2025-12-07","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Chihuahua","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Chihuahua","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Chihuahua","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Chihuahua","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Chihuahua","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Chihuahua","SK_Date":"2025-12-03","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Chihuahua","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Chihuahua","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tamaulipas","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tamaulipas","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tamaulipas","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tamaulipas","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tamaulipas","SK_Date":"2025-11-30","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tamaulipas","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tamaulipas","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tamaulipas","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-12-04","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Tlaxcala","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guerrero","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guerrero","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guerrero","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guerrero","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-11-26","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Guanajuato","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-11-23","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-11-24","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-11-26","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-11-27","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-11-28","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-11-30","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-12-01","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-12-02","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-12-03","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-12-05","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-12-06","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Veracruz","SK_Date":"2025-12-07","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-12-03","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-12-04","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Zacatecas","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-11-23","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-11-24","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-11-25","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-11-28","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-12-03","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-12-04","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Coahuila","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Queretaro","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Queretaro","SK_Date":"2025-11-25","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Queretaro","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Queretaro","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Queretaro","SK_Date":"2025-12-01","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Queretaro","SK_Date":"2025-12-03","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Queretaro","SK_Date":"2025-12-05","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Durango","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Sonora","SK_Date":"2025-11-25","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sonora","SK_Date":"2025-11-26","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sonora","SK_Date":"2025-11-27","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sonora","SK_Date":"2025-11-28","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sonora","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-11-27","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-11-28","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-12-03","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-12-04","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-12-05","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-12-06","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Tabasco","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-11-25","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-11-26","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-11-28","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-11-30","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-12-01","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-12-04","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Nuevo Leon","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-12-02","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-12-03","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-12-04","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Sinaloa","SK_Date":"2025-12-07","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Hidalgo","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Hidalgo","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Hidalgo","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Hidalgo","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Hidalgo","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Hidalgo","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Hidalgo","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Hidalgo","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-12-01","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-12-03","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-12-04","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-12-06","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Morelos","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Puebla","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Puebla","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Puebla","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Puebla","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Puebla","SK_Date":"2025-11-27","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Puebla","SK_Date":"2025-11-28","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Puebla","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Puebla","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":0,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-11-24","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-11-26","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-11-27","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-11-28","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-11-29","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-11-30","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-12-01","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-12-02","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-12-03","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-12-04","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-12-05","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-12-06","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Chiapas","SK_Date":"2025-12-07","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":2}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-11-23","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-11-24","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-11-25","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-11-26","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-11-27","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-11-29","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-11-30","riesgo_maiz":2,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-12-01","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-12-02","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-12-03","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-12-05","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-12-06","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
+{"PK_Alert":"ALERT#Oaxaca","SK_Date":"2025-12-07","riesgo_maiz":0,"riesgo_trigo":2,"alerta_helada":0,"Level":"WARNING","cluster_clima":1}
